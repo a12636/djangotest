@@ -3,11 +3,11 @@
 
 使用環境win10 pro
 
-1.安裝docker及git<\br></br><br>
+1.安裝docker及git<br>
 >參考 https://www.maxlist.xyz/2018/11/02/git_tutorial/
-	>在工作區，點擊右鍵，開啟git bash here, 設定git
-		>>git config --global user.name "usrer"
-		>>git config --global user.email "email"
+>在工作區，點擊右鍵，開啟git bash here, 設定git
+>>git config --global user.name "usrer"
+>>git config --global user.email "email"
 
 2.git的操作
 	>在雲端的github建立專案(可使用同類型的服務)
