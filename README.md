@@ -13,12 +13,12 @@
 &nbsp;&nbsp;在雲端的github建立專案(可使用同類型的服務)  
 &nbsp;&nbsp;在工作區，點擊右鍵，開啟git bash here  
 &nbsp;&nbsp;下載專案至本機  
-- git clone https://github.com/a12636/djangotest.git  
-- git clone https://github.com/a12636/djangotest.git <可設定下載資料夾名稱>  
-- git clone https://github.com/a12636/djangotest.git -b <指定分支>  
+git clone https://github.com/a12636/djangotest.git  
+git clone https://github.com/a12636/djangotest.git <可設定下載資料夾名稱>  
+git clone https://github.com/a12636/djangotest.git -b <指定分支>  
 &nbsp;&nbsp;建立索引  
-- git add .  
+git add .  
 &nbsp;&nbsp;提交異動說明  
-- git commit -m "update readme.md"  
+> git commit -m "update readme.md"  
 &nbsp;&nbsp;上傳專案至雲端  
-- git push  
+> git push  
